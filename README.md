@@ -1,2 +1,2 @@
 # RAG---Streamlit_Langchain
-Projeto utilizando para fazer um RAG utilizando  Langchain, Ollama e Streamlit
+Projeto interno utilizando Streamlit como interface, Ollama para os modelos de embedding e Langchain para a arquitetura.
